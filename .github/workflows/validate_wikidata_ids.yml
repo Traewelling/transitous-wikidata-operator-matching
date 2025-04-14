@@ -1,0 +1,15 @@
+name: Validate Wikidata IDs
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate-wikidata-ids:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Run Python Validation Script
+        run: python .github/workflows/validate_wikidata_ids.py
