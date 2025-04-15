@@ -15,7 +15,6 @@ motis_id,name
 10,VR
 1000,Helsingin seudun liikenne
 101,Österreichische Postbus AG - N (Salzburg)
-10251,BUS
 10252,Bus Hassis
 10253,Bus NVW (Walz)
 10256,Verkehrsgesellschaft Vorpommern-Rügen
@@ -106,7 +105,6 @@ motis_id,name
 1090,"Hangon liikenne, Friman&Co"
 10904,Mecklenburgische Bäderbahn Molli
 10905,Norddeutsche Eisenbahn Gesellschaft
-10907,cantus Verkehrsgesellschaft
 1091,Oy Amper&Wikström Ab
 10912,NEB Niederbarnimer Eisenbahn
 10913,National Express
@@ -117,8 +115,6 @@ motis_id,name
 10924,Sächsisch-Oberlausitzer Eisenbahngesellschaft
 10927,Hanseatische Eisenbahn GmbH
 1093,Rolly Uusimaa Oy
-10930,enno
-10931,metronom
 10932,VIAS GmbH
 10933,VIAS Rail GmbH
 10937,Pressnitztalbahn
@@ -332,7 +328,6 @@ motis_id,name
 134,Herault Transport
 13422,DB Regio AG Mitte
 13423,Montafoner Bahn
-13424,cantus Verkehrsgesellschaft
 13427,Erfurter Verkehrsbetriebe AG
 13429,Nordhäuser Verkehrsbetriebe GmbH
 13441,Ostalbkreis
@@ -875,10 +870,6 @@ motis_id,name
 566,Busverkehr Oder-Spree GmbH
 58,Ritmo
 6,Ville de Luxembourg - Service Autobus
-605,NordWestBahn
-606,metronom Eisenbahngesellschaft mbH
-607,erixx
-608,cantus Verkehrsgesellschaft
 6100826,CFR Călători
 615,Verkehrsgemeinschaft Osnabrück
 619,Fluo Grand Est 57
@@ -974,15 +965,12 @@ motis_id,name
 7662,Hagener Straßenbahn AG Bus
 7664,Busverkehr Nordschwarzwald GmbH
 7666,Bus RVS
-7667,Bus Wöhrle
 7669,Bus VERA
 7670,Bus SWEG
-7671,Taxiverkehre
 7677,SEV T+B (Tram + Sonstige Busse)
 7678,Märkische Verkehrsgesellschaft
 7680,MVG Shuttelverkehr FH Iserlohn
 7681,MVG ALF/AST Verkehr
-7685,Nicht in MVV integriert
 7686,MVV-Ruftaxi
 7687,MVV-Regionalbus
 7688,ExpressBus
@@ -1077,9 +1065,6 @@ motis_id,name
 7938,Verkehrsgemeinschaft Main-Tauber
 7939,Queichtal Nahverkehrsgesellschaft
 7940,Regionalbus-Westpfalz
-7941,Sonstige Private im VRN
-7942,Private nicht im VRN
-795,enno
 7955,Stadtverkehr Ingelheim
 7956,ORN im RNN
 7958,Stadtverkehr Bingen
