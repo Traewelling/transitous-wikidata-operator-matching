@@ -78,7 +78,6 @@ motis_id,name
 1077,Mika K. Niskanen Oy
 10785,SBB
 108,DB Regio AG
-10822,SBB GmbH
 10833,AKN Eisenbahn AG
 10835,Rhenus Veniro
 10837,alex - Die Länderbahn GmbH DLB
@@ -672,7 +671,6 @@ motis_id,name
 341,Verkehrsmanagement Elbe-Elster GmbH
 346,Verkehrsgesellschaft Oberspreewald-Lausitz mbH
 35,Graz Linien
-351,SBB GmbH (Grenzverkehr)
 36,Steiermarkbahn und Bus GmbH
 360,Bodensee-Schiffsbetriebe GmbH
 361,MasExpressen
@@ -1440,7 +1438,6 @@ KEOL,KEOLIS AMIENS
 Keolis,Keolis
 Keolis Secteur Alsace,Keolis Secteur Alsace
 L,TEC Liège - Verviers
-L7____,SBB GmbH
 LA_ROCHE_SUR_YON:Operator:5,Impulsyon
 LAVAL:Operator:1,TUL
 LER,LER ! ZOU
