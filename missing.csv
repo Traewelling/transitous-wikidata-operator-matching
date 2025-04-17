@@ -42,7 +42,6 @@ motis_id,name
 10359,Harzer Verkehrsbetriebe
 10368,PVGS Altmarkkreis Salzwedel
 1037,Koiviston Auto Länsi Oy
-10375,S-Bahn Hamburg
 10376,Nahreisezug
 10382,vogtlandbahn - Die Länderbahn GmbH DLB
 10392,SNCF Voyages Deutschland
@@ -134,9 +133,6 @@ motis_id,name
 1097,Vekka liikenne Oy
 10971,Bayerische Zugspitzbahn
 1099,Lehtimäen Liikenne Oy
-10996,Hochbahn U-Bahn
-10998,Hochbahn Bus
-11,Schweizerische Bundesbahnen SBB
 110,Österreichische Postbus AG - W (Zell am See)
 11000,Neu KVG
 11002,AKMasten
@@ -261,7 +257,6 @@ motis_id,name
 12624,Trenitalia
 12634,Ceske Drahy
 12638,NordWestBahn
-12681,DB Fernverkehr AG
 12683,Regionalverkehre Start Deutschland GmbH Unterelbe
 12721,Ehard
 12722,VGN Kraus Reisen
@@ -310,8 +305,6 @@ motis_id,name
 13181,Tempus mobil
 132,liO Occitanie 32
 13211,Stadtbus Kronberg im Taunus1
-1322,DB Fernverkehr (Codesharing)
-13221,"Bus SEV, nur Abellio, DB Regio, Go-Ahead"
 13251,Linienbündel 5 (Abteiland)
 13277,Eisenbahnen und Verkehrsbetriebe Elbe-Weser GmbH
 13279,Reisedienst von Rahden GmbH & Co. KG
@@ -594,7 +587,6 @@ motis_id,name
 2115,Gebken Reisen GmbH
 2116,Hutfilters Reisedienst GmbH & Co.
 2150,Verkehrsgesellschaft Landkreis Osnabrück
-2155,eurobahn
 2156,eurobahn
 216,Delbus GmbH & Co. KG
 218,BREMERHAVEN BUS
@@ -865,7 +857,6 @@ motis_id,name
 550,Wolfsburger Verkehrs-GmbH
 552,RVHI Regionalverkehr Hildesheim GmbH
 553,SVHI Stadtverkehr Hildesheim GmbH
-554,üstra Hannoversche Verkehrsbetriebe AG
 56,Zeleznice Slovenskej republiky
 566,Busverkehr Oder-Spree GmbH
 58,Ritmo
