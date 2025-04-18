@@ -106,7 +106,6 @@ motis_id,name
 1091,Oy Amper&Wikström Ab
 10912,NEB Niederbarnimer Eisenbahn
 10913,National Express
-10918,DB Fernverkehr (Codesharing)
 10919,Nordbahn Eisenbahngesellschaft
 1092,Turun Tilausliikenne Oy
 10923,oberpfalzbahn - Die Länderbahn GmbH DLB
@@ -121,9 +120,6 @@ motis_id,name
 10941,Süd-Thüringen-Bahn Express
 10942,Süd-Thüringen-Bahn
 10946,MittelrheinBahn (Trans Regio)
-10951,vlexx
-10952,vlexx1
-10953,vlexx2
 10959,Daadetalbahn
 10964,waldbahn - Die Länderbahn GmbH DLB
 10966,erixx
@@ -143,7 +139,6 @@ motis_id,name
 11026,ASEAG Netliner
 11046,Hessische Landesbahn GmbH
 11049,Eurobahn
-11071,Friedrich Müller Omnibus GmbH
 11076,Kein Bereich
 111,Luxtram
 1113,Bus Travel Oy Reissu Ruoti
@@ -326,7 +321,6 @@ motis_id,name
 13452,Frölich Linie
 13466,Nikolaus Kirsch GmbH
 13476,Dürk-Reisen
-13477,Bus (SSB)
 13478,Expressbus Relex1
 13479,Alb-Donau-Kreis1
 13481,Andre-Touristk
@@ -406,7 +400,6 @@ motis_id,name
 14126,DB Regio Bus Ost GmbH1
 14136,BKW Bad Wildungen
 14146,Bamberg
-14172,SWEG Bahn Stuttgart
 14173,RheinRuhrBahn
 14174,Regionalverkehre Start Deutschland GmbH Taunus
 14177,Omnibus Verkehr Oberlausitz
@@ -417,7 +410,6 @@ motis_id,name
 14193,Norddeutsche Verkehrsbetriebe Ostholstein Nord
 14198,Start Deutschland GmbH
 14207,Mainzer Mobilität
-14222,Friedrich Müller Omnibus im KVSH
 14247,2
 14257,Rathje
 143,Hermann Edzards Omnibusbetrieb
@@ -1074,12 +1066,6 @@ motis_id,name
 7988,Röhler
 7989,Niederrheinwerke Viersen mobil GmbH
 7992,NE-Zug (VVS)
-7993,Stadtbahn
-7994,Zahnrad-/Seilbahn
-7996,Privatunternehmer-Bus (VVS)
-7997,Nachtbus (SSB)
-7998,Nachtbus (Region)
-7999,Privatunternehmer-Bus (nicht VVS)
 80_BOD,FPLAN BOD RAB OMP
 80_RVL,FPLAN RBG SWG
 80_VHB,FPLAN VHB SBP
