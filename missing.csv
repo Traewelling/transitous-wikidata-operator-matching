@@ -6,12 +6,9 @@ motis_id,name
 1,OEBB Personenverkehr AG Kundenservice
 2,WESTbahn Management GmbH
 3,Raaberbahn AG GYSEV Zrt.
-4,Deutsche Bahn AG
 5,Paznauntaler Verkehrsunternehmen Wilhelm Siegele GmbH
 6,CAT
-06____,DB Regio AG Baden-Württemberg
 7,Burkhard-Reisebüro e.K
-1,S-Bahn Berlin GmbH
 10,VR
 1000,Helsingin seudun liikenne
 101,Österreichische Postbus AG - N (Salzburg)
@@ -33,7 +30,6 @@ motis_id,name
 10297,SNG Suhl
 10298,VWG Sömmerda
 10300,Werrabus
-10305,FS Omnibus GmbH & Co. KG
 10310,Omnibusbetrieb Lust
 10353,BördeBus Verkehrsgesellschaft mbH
 10354,PVG Burgenlandkreis
@@ -42,27 +38,12 @@ motis_id,name
 10359,Harzer Verkehrsbetriebe
 10368,PVGS Altmarkkreis Salzwedel
 1037,Koiviston Auto Länsi Oy
-10376,Nahreisezug
 10382,vogtlandbahn - Die Länderbahn GmbH DLB
 10392,SNCF Voyages Deutschland
 104,S.G.M. S.p.A.
 1040,Vr
 1042,Salon Tilausmatkat Oy
-10434,DB Regio AG Nordost
-10435,DB Regio AG Nord
-10436,DB Regio AG NRW
-10437,DB Regio AG Südost
-10438,DB RegioNetz Verkehrs GmbH Erzgebirgsbahn
 10439,DB RegioNetz Verkehrs GmbH Oberweisbacher Berg+Schwarzatalb
-10440,DB Regio AG Mitte Region Hessen
-10441,DB RegioNetz Verkehrs GmbH Kurhessenbahn
-10442,DB RegioNetz Verkehrs GmbH Westfrankenbahn
-10443,DB Regio AG Baden-Württemberg
-10444,DB ZugBus Regionalverkehr Alb-Bodensee
-10445,SÜWEX
-10446,DB Regio AG Bayern
-10448,DB RegioNetz Verkehrs GmbH Südostbayernbahn
-10449,DB Regio AG Mitte Region Südwest
 10459,CFL1
 10466,Nederlandse Spoorwegen
 1047,J. Vainion Liikenne Oy
@@ -77,11 +58,7 @@ motis_id,name
 1071,RENFE OPERADORA
 1077,Mika K. Niskanen Oy
 10785,SBB
-108,DB Regio AG
-10833,AKN Eisenbahn AG
-10835,Rhenus Veniro
 10837,alex - Die Länderbahn GmbH DLB
-10838,agilis
 10846,SDG Sächsische Dampfeisenbahngesellschaft mbH
 10847,Bentheimer Eisenbahn
 10851,City-Bahn Chemnitz
@@ -105,23 +82,13 @@ motis_id,name
 10905,Norddeutsche Eisenbahn Gesellschaft
 1091,Oy Amper&Wikström Ab
 10912,NEB Niederbarnimer Eisenbahn
-10913,National Express
 10919,Nordbahn Eisenbahngesellschaft
 1092,Turun Tilausliikenne Oy
 10923,oberpfalzbahn - Die Länderbahn GmbH DLB
 10924,Sächsisch-Oberlausitzer Eisenbahngesellschaft
 10927,Hanseatische Eisenbahn GmbH
 1093,Rolly Uusimaa Oy
-10932,VIAS GmbH
-10933,VIAS Rail GmbH
-10937,Pressnitztalbahn
-10939,Südwestdeutsche Verkehrs-AG
-10940,agilis-Schnellzug
-10941,Süd-Thüringen-Bahn Express
-10942,Süd-Thüringen-Bahn
-10946,MittelrheinBahn (Trans Regio)
 10959,Daadetalbahn
-10964,waldbahn - Die Länderbahn GmbH DLB
 10966,erixx
 10968,Adler-Schiffe
 10969,Bayerische Regiobahn
@@ -190,7 +157,6 @@ motis_id,name
 12020,Bremer Straßenbahn AG
 12022,CeBus GmbH & Co. KG
 1203,ABELLIO Rail Mitteldeutschland GmbH
-12030,DB Regio Bus Nord GmbH
 12031,Hermann Edzards Omnibusbetrieb
 12032,Lkr. Emsland
 1204,Ålandstrafiken
@@ -229,7 +195,6 @@ motis_id,name
 12171,Bus Stadtwerke Baden-Baden
 12173,KVIPVH
 1219,Viking Line
-12201,DB Regio AG S-Bahn Rhein-Main
 12211,Rheinbahn MetroBus
 12216,Heidekreis
 12217,RVHI Regionalverkehr Hildesheim GmbH
@@ -261,7 +226,6 @@ motis_id,name
 12761,Sonstige Unternehmen
 12782,Kieler Verkehrsgesellschaft mbH
 12784,Schlepp- und Fährgesellschaft Kiel mbh (SFK)
-12796,DB Regio Mitte
 12842,HarzBus GbR
 12856,die linie
 12869,ARRIVA_ZL
@@ -312,7 +276,6 @@ motis_id,name
 13396,Österreichische Bundesbahnen
 13398,Weissenburg
 134,Herault Transport
-13422,DB Regio AG Mitte
 13423,Montafoner Bahn
 13427,Erfurter Verkehrsbetriebe AG
 13429,Nordhäuser Verkehrsbetriebe GmbH
@@ -367,7 +330,6 @@ motis_id,name
 13727,sonstige Linien
 13761,TGO-EFA Datenversorgung
 13766,SWG-EFA Datenversorgung
-13776,S-Bahn Hannover
 13796,FlixTrain-de
 138,Bus Ostschweiz (Rheintal)
 13817,Bus Engel
@@ -383,7 +345,6 @@ motis_id,name
 13856,Dillschnitter GmbH und Co. KG
 13862,Omnibusverkehr Gloss
 13864,Zarth GmbH1
-13876,DB Regio Bus Mitte1
 13886,Kalmer Reisen GmbH
 14,Blaguss Reisen GmbH
 140,Bruns Reisen GmbH Varel
@@ -397,7 +358,6 @@ motis_id,name
 14112,VerkehrsService GmbH Groß-Gerau
 14116,Verkehrsbetriebe des Landkreises Leer GmbH
 14121,Flexible Bedienformen ADK
-14126,DB Regio Bus Ost GmbH1
 14136,BKW Bad Wildungen
 14146,Bamberg
 14173,RheinRuhrBahn
@@ -451,12 +411,10 @@ motis_id,name
 14518,Griesar Reisen GmbH
 14520,Bischoff-Touristik GmbH & Co. KG
 14521,bkr-mobility & Scherer Reisen
-14524,DB Regio Bus Mitte GmbH1
 14525,Bustouristik Marenbach GmbH & Co. KG
 14530,Koblenzer Verkehrsbetriebe GmbH
 14531,Verkehrsbetriebe Mittelrhein AWV
 14532,Martin Becker GmbH & Co. KG
-14533,DB Regio Bus Rhein-Mosel GmbH
 14535,FriBus
 14536,Westerwaldbus des Kreises Altenkirchen G
 14541,Stemmler Bus GmbH
@@ -470,16 +428,13 @@ motis_id,name
 14557,Wittelsbacher Land 02 (ab j21)
 14558,Bus Richard Eberhardt GmbH
 14559,RBS AA + FMO SHA
-1456,Nahreisezug
 14577,Omnibus2
 14587,AK Autokraft Projekt Smile24
 146,STI Bus AG
 14617,Zarth GmbH2
 14618,Behles GmbH
-14619,DB Regio Bus Mitte GmbH im RNN
 14620,WSW BürgerBus
 14622,MEW Mobilitätszentrale Elbe-Wesr
-14637,SWEG Bus Tübingen
 14647,DBSch
 14662,Haßberge
 14667,SVL Süddeutsche Verkehrslinine GmbH &
@@ -508,7 +463,6 @@ motis_id,name
 14788,Fremdunternehmer (Sonstige)
 14789,Omnibusverkehr Abt Schwäbisch Gmünd1
 148,Verkehrsbetriebe Grafschaft Hoya GmbH
-14802,DB Regio Bus Mitte GmbH H/BW
 14812,Via Rhein Main Mobility GmbH
 14822,Verkehrsgesellschaft Merzig-Wadern
 14868,SWEG_WL_EM
@@ -547,7 +501,6 @@ motis_id,name
 165,Albus (SVG beauftragt)
 1655,Eisenbahnen und Verkehrsbetriebe Elbe-Weser GmbH(Bahndaten)
 166,liO Occitanie 66
-1689,DB Regio AG Nord
 171,Société Nationale des Chemins de Fer Luxembourgeois
 1750,Verkehrsbetriebe Bachstein
 176,Stadtwerke Emden GmbH
@@ -604,7 +557,6 @@ motis_id,name
 2480,Hülsmann Reisen
 25,Verkehrsbetrieb LIECHTENSTEINmobil
 2505,Regionalverkehre Start Deutschland (Niedersachsen-Mitte)
-2506,S-Bahn Hannover (Transdev)
 251,Regionale Verkehrsgesellschaft Dahme-Spreewald mbH
 252,Sörmlandstrafiken
 253,Rurtalbus GmbH
@@ -944,7 +896,6 @@ motis_id,name
 7664,Busverkehr Nordschwarzwald GmbH
 7666,Bus RVS
 7669,Bus VERA
-7670,Bus SWEG
 7677,SEV T+B (Tram + Sonstige Busse)
 7678,Märkische Verkehrsgesellschaft
 7680,MVG Shuttelverkehr FH Iserlohn
@@ -956,7 +907,6 @@ motis_id,name
 7714,OVA - Omnibus-Verkehr Aalen
 7715,Omnibusverkehr Abt Schwäbisch Gmünd
 7718,Beck + Schubert GmbH & CoKG
-772,DB Regio Bus Ost GmbH
 773,Verkehrsbetriebe Glattal
 7762,Rheinbahn Stadtbahn
 7763,Rheinbahn Strab
@@ -1010,7 +960,6 @@ motis_id,name
 7863,SV Flöha Bus
 7864,SV Freiberg/Brand-Erbisdorf Bus
 7865,RV Döbeln
-7872,DB-Nahverkehr
 7874,RBO-Bus
 7875,KVG-Bus
 7878,Autobusy Karlovy Vary
@@ -1072,7 +1021,6 @@ motis_id,name
 8000,Ruftaxi entlang Linie
 8001,Ruftaxi nicht entlang Linie
 8005,Museumsstraßenbahn (SHB)
-800693,DB Regio AG Baden-Württemberg
 801,PostAuto AG
 8011,BRS Busverkehr Ruhr-Sieg GmbH
 8014,Verkehrsbetriebe Westfalen-Süd GmbH
@@ -1135,7 +1083,6 @@ motis_id,name
 8141,Kreisverkehrsbetrieb Sigmaringen
 8143,Omnibus-Verkehr Ruoff GmbH
 8144,Eissler-Reisen GmbH & Co.KG
-8146,SWEG (HzL) Bus
 8147,RSV-GmbH Hogenmüller & Kull Co.
 8148,Stadt Rottenburg am Neckar
 815,ABELLIO Rail Mitteldeutschland GmbH
@@ -1302,7 +1249,6 @@ motis_id,name
 9276,HLB Bus GmbH
 9281,mobus Märkisch-Oderland Bus GmbH
 9282,ARGE prignitzbus
-9287,DB Regio Bus Mitte
 93,Matterhorn Gotthard Bahn (bvz)
 9316,Padersprinter
 9319,nph-Linienbündel 01
