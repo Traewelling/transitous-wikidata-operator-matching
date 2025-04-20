@@ -2,35 +2,48 @@ import csv
 import sys
 
 def main():
-    # Load IDs from mapping.csv
+    # Load mapping of motis_id to motis_name from mapping.csv
     try:
         with open("mapping.csv", newline="", encoding="utf-8") as mapping_file:
             mapping_reader = csv.DictReader(mapping_file)
-            mapping_ids = {row["motis_id"].strip() for row in mapping_reader if row.get("motis_id")}
+            mapping_dict = {}
+            for row in mapping_reader:
+                mid = row.get("motis_id", "").strip()
+                mname = row.get("motis_name", "").strip()
+                if mid and mname:
+                    mapping_dict[mid] = mname
     except FileNotFoundError:
         print("Error: mapping.csv file not found.")
         sys.exit(1)
 
-    # Load IDs from missing.csv
+    # Load missing entries as a list of (motis_id, name) tuples from missing.csv
     try:
         with open("missing.csv", newline="", encoding="utf-8") as missing_file:
             missing_reader = csv.DictReader(missing_file)
-            missing_ids = [row["motis_id"].strip() for row in missing_reader if row.get("motis_id")]
+            missing_list = []
+            for row in missing_reader:
+                mid = row.get("motis_id", "").strip()
+                name = row.get("name", "").strip()
+                if mid and name:
+                    missing_list.append((mid, name))
     except FileNotFoundError:
         print("Error: missing.csv file not found.")
         sys.exit(1)
 
-    # Check each ID from missing.csv to see if it is also in mapping.csv
+    # Check: if (motis_id, name) from missing.csv exists AND the same motis_id with this motis_name
+    # is in mapping.csv, report an error
     failed = False
-    for missing_id in missing_ids:
-        if missing_id in mapping_ids:
-            print(f"Error: ID '{missing_id}' found in both mapping.csv and missing.csv. It's obviously not missing, so should be removed from missing.csv.")
+    for mid, name in missing_list:
+        mapped_name = mapping_dict.get(mid)
+        if mapped_name and mapped_name == name:
+            print(f"Error: Combination motis_id='{mid}' and name='{name}' is listed in missing.csv, "
+                  f"but also present in mapping.csv (motis_name='{mapped_name}').")
             failed = True
 
     if failed:
         sys.exit(1)
     else:
-        print("All IDs in missing.csv are not present in mapping.csv.")
+        print("All clear: No matching motis_id,name combinations found in both files.")
 
 if __name__ == "__main__":
     main()
