@@ -1,17 +1,9 @@
 motis_id,name
 ,Filibus (Chartres)
-0,PKP Intercity
-0-1,Keolis Sète
-1,ASPO SPA
-1,OEBB Personenverkehr AG Kundenservice
-2,WESTbahn Management GmbH
-3,Raaberbahn AG GYSEV Zrt.
 5,Paznauntaler Verkehrsunternehmen Wilhelm Siegele GmbH
-6,CAT
 7,Burkhard-Reisebüro e.K
 10,VR
 1000,Helsingin seudun liikenne
-101,Österreichische Postbus AG - N (Salzburg)
 10252,Bus Hassis
 10253,Bus NVW (Walz)
 10256,Verkehrsgesellschaft Vorpommern-Rügen
@@ -76,7 +68,6 @@ motis_id,name
 10892,trilex  - Die Länderbahn GmbH DLB
 10894,REGIOBAHN
 10898,Meridian
-109,Österreichische Postbus AG - W (Tamsweg)
 1090,"Hangon liikenne, Friman&Co"
 10904,Mecklenburgische Bäderbahn Molli
 10905,Norddeutsche Eisenbahn Gesellschaft
@@ -95,7 +86,6 @@ motis_id,name
 1097,Vekka liikenne Oy
 10971,Bayerische Zugspitzbahn
 1099,Lehtimäen Liikenne Oy
-110,Österreichische Postbus AG - W (Zell am See)
 11000,Neu KVG
 11002,AKMasten
 11003,HADAG-Z
@@ -147,7 +137,6 @@ motis_id,name
 11981,ARGE HRS Omnibus OHG
 11997,Bruns Reisen GmbH Varel
 11999,Aktiv Bus Flensburg GmbH
-12,Österreichische Postbus AG
 12000,Autokraft Kiel GmbH
 12001,AllerBus
 12009,BREMERHAVEN BUS
@@ -346,7 +335,6 @@ motis_id,name
 13862,Omnibusverkehr Gloss
 13864,Zarth GmbH1
 13886,Kalmer Reisen GmbH
-14,Blaguss Reisen GmbH
 140,Bruns Reisen GmbH Varel
 14071,Ersatzverkehr1
 14076,Brodschelm Linie
@@ -495,7 +483,6 @@ motis_id,name
 153,Vonau Reisedienst GmbH & Co. KG
 154,AllerBus
 157,Wengernalpbahn
-16,Dr. Richard Verkehrsbetrieb GmbH & Co KG
 163,TRENITALIA S.p.A.
 164,Albus
 165,Albus (SVG beauftragt)
@@ -504,13 +491,11 @@ motis_id,name
 171,Société Nationale des Chemins de Fer Luxembourgeois
 1750,Verkehrsbetriebe Bachstein
 176,Stadtwerke Emden GmbH
-18,Partsch Verkehrsbetriebe GmbH
 181,liO Occitanie 81
 183,BLS Schifffahrt AG (brs)
 185,Vierwaldstättersee
 1850,Heidekreis
 1855,Willy Hummert Omnibusverkehr GmbH
-19,Innsbrucker Verkehrsbetriebe und Stubaitalbahn GmbH
 1935,Omnibus-Nahverkehrs-Service
 194,Zürichsee-Schifffahrtsgesellschaft AG (ZSG)
 195,Schweizerische Bodensee-Schifffahrt AG
@@ -524,7 +509,6 @@ motis_id,name
 204,FYNBUS
 206,NT
 2085,Busreisen Andreesen Morten GmbH & Co. KG
-21,ZuklinBus GmbH
 2115,Gebken Reisen GmbH
 2116,Hutfilters Reisedienst GmbH & Co.
 2150,Verkehrsgesellschaft Landkreis Osnabrück
@@ -532,7 +516,6 @@ motis_id,name
 216,Delbus GmbH & Co. KG
 218,BREMERHAVEN BUS
 219,Arosa Bergbahnen
-22,Appenzeller Bahnen (ab)
 22002,Intersul
 22003,Internorte
 22004,Transcarioca
@@ -555,7 +538,6 @@ motis_id,name
 243,Aachener Straßenbahn und Energieversorgungs-AG
 246,Verkehrsgesellschaft Teltow-Fläming mbH
 2480,Hülsmann Reisen
-25,Verkehrsbetrieb LIECHTENSTEINmobil
 2505,Regionalverkehre Start Deutschland (Niedersachsen-Mitte)
 251,Regionale Verkehrsgesellschaft Dahme-Spreewald mbH
 252,Sörmlandstrafiken
@@ -566,7 +548,6 @@ motis_id,name
 2575,Kalmer Reisen GmbH
 258,WestVerkehr GmbH
 259,Verkehrsgemeinschaft Grafschaft Bentheim
-26,Dr. Richard NÖ GmbH & Co KG
 2606,Weihrauch Uhlendorff GmbH
 2607,Regiobus Uhlendorff GmbH & Co. KG
 261,Hallandstrafiken
@@ -582,15 +563,11 @@ motis_id,name
 276,Skånetrafiken
 277,Flygbussarna
 279,Västtrafik
-28,Tursib
 281,Midttrafik
 286,CeBus GmbH & Co. KG
 287,Arlanda Express
-29,Stadtbus Dornbirn
 2910,NRC Group Finland Oy
 299,Zermatt Bergbahnen AG
-3,Akureyri
-30,Verkehrsbetriebe Burgenland GmbH
 300,Öresundståg
 3025,Reisebüro Schmidt
 3030,MEW Mobilitätszentrale Elbe-Weser
@@ -600,51 +577,35 @@ motis_id,name
 315,Vy Tåg
 318,DSB S-tog
 319,Metroselskabet
-32,SUB
 323,Salzburg AG (OBus)
 325,Tåg i Bergslagen
 326,Salzburg AG (Salzburger Lokalbahn)
 327,Vy Bus4You
 327000,TreNord
-33,BLS AG (bls)
 336,Sydtrafik
 3385,Fenniarail Oy
 341,Verkehrsmanagement Elbe-Elster GmbH
 346,Verkehrsgesellschaft Oberspreewald-Lausitz mbH
-35,Graz Linien
-36,Steiermarkbahn und Bus GmbH
 360,Bodensee-Schiffsbetriebe GmbH
 361,MasExpressen
 365,Härjedalingen
-37,Baselland Transport
-38,Graz Linien
 380,Snälltåget
 381,Gerdes Reisen
 3849,Verkehrsbetriebe Zürich INFO+
-39,Landbus Oberes Rheintal
 391,Nikkaluoktaexpressen
 3955,Trasporti Pubblici Luganesi SA
-4,Wiener Linien GmbH & Co KG
-40,Österreichische Postbus AG
 401,Skånetrafiken
-41,Aargau Verkehr AG
 410,TRANSAL
 42,Forbus
 43,Oberger
 44,Tyroltours GmbH
-45,REGION - cars Région Ain
 450,Fluo Grand Est 67
 456,Odense Letbane
-46,Landbus Bregenzerwald
-47,Verkehrsbetriebe Brandenburg an der Havel GmbH
 471,GoCollective
 476,Fritz Behrendt OHG
-48,Matterhorn Gotthard Bahn (fo)
 480,Glaser
 486,Schöneicher Rüdersdorfer Straßenbahn GmbH
 487,Strausberger Eisenbahn GmbH
-49,Stadtbus Bludenz
-5,Impulsyon
 50,First Greater Glasgow
 50-1-1-SBLB,Stagecoach Bluebird
 50-1-1-SCGL,Stagecoach West
@@ -778,7 +739,6 @@ motis_id,name
 50-2-XR,Elizabeth line
 50-2-ZZ,Agency
 500,CTM Spa
-51,Postbus Verkehrsstelle Lech
 51-49-GLE,Goldline Express
 51-50-WIRISHI,Translink Northern Ireland Rail
 5111,SNCF Voyageurs SA
@@ -787,19 +747,14 @@ motis_id,name
 52,Reisebüro Breuss
 5235,SNCF Voyageurs EA
 5270,SNCF Voyageurs LO
-53,Transports publics fribourgeois
 54,ARGE Tiroler Zugspitzbahn Tyroltours
 546,Kraftverkehrsgesellschaft mbH Braunschweig
 547,Peiner Verkehrsgesellschaft mbH
 549,Verkehrsgesellschaft Landkreis Gifhorn mbH
-55,Magyar Allamvasutak
 550,Wolfsburger Verkehrs-GmbH
 552,RVHI Regionalverkehr Hildesheim GmbH
 553,SVHI Stadtverkehr Hildesheim GmbH
-56,Zeleznice Slovenskej republiky
 566,Busverkehr Oder-Spree GmbH
-58,Ritmo
-6,Ville de Luxembourg - Service Autobus
 6100826,CFR Călători
 615,Verkehrsgemeinschaft Osnabrück
 619,Fluo Grand Est 57
@@ -807,20 +762,14 @@ motis_id,name
 629,Haparanda lokaltrafik
 631,Krautgartner-Bus
 637,Boden Stadstrafik
-64,Montreux-Oberland Bernois
-65,THURBO
-66,Stadtwerke Verkehrsbetriebe Wilhelmshaven GmbH
 662,Dr. Richard -Standort Oberösterreich
 6750,OSL / Koiviston Auto Oulu Oy
 685,Lüchow-Schmarsauer Eisenbahn
 690,Nordhessischer Verkehrsverbund
-7,Transvilles
-70,REGION - cars Région Express
 7031,Aroser Verkehrsbetriebe
 706,Sabinchen Touristik GmbH
 708,Elektrobus Zermatt
 716,Ortsbus St. Moritz
-72,Rhätische Bahn
 720,Bittner/Emsland-Mitte
 722,Stern & Hafferl Kraftfahrlinien GmbH
 723,Aargau Verkehr AG
@@ -828,11 +777,9 @@ motis_id,name
 7231,SBB Infrastruktur AG Bahnersatz
 7250,Rhätische Bahn Ersatzverkehr
 726,ORP Ostprignitz-Ruppiner Personennahverkehrsgesellschaft mbH
-73,REGION - cars Région Savoie
 731,ODEG Ostdeutsche Eisenbahn GmbH
 736,Autolinea Mendrisiense SA
 737,Servizio d'automobili
-74,SJ
 744,Wels Linien GmbH
 7493,Rurseeschifffahrt
 7496,Schienenersatzverkehr
@@ -862,7 +809,6 @@ motis_id,name
 7589,Landkreis Cham
 7593,Calw VPC
 7599,Stadtwerke Biberach
-76,Vy
 760,Astuce
 7600,Klemens Diesch
 7601,Diesch GmbH
@@ -927,7 +873,6 @@ motis_id,name
 7796,RLG AST
 7797,Westfalen Bus
 7798,RVM Kreis Steinfurt
-78,Sihltal-Zürich-Uetliberg-Bahn
 780,Usedomer Bäder Bahn Bus
 7800,Weilke Kreis ST
 7803,RVM Kreis Borken
@@ -969,7 +914,6 @@ motis_id,name
 7888,OBB-Beck
 7889,S.Wilhelm-OBB
 7891,Schmidt-Reisen
-79,Dr. Richard Linien GmbH & Co KG
 7904,Regionalbusse (privat)
 7906,Anruf-Sammel-Taxi
 7909,RNV LU-MA (Strab)
@@ -1015,9 +959,6 @@ motis_id,name
 7988,Röhler
 7989,Niederrheinwerke Viersen mobil GmbH
 7992,NE-Zug (VVS)
-80_BOD,FPLAN BOD RAB OMP
-80_RVL,FPLAN RBG SWG
-80_VHB,FPLAN VHB SBP
 8000,Ruftaxi entlang Linie
 8001,Ruftaxi nicht entlang Linie
 8005,Museumsstraßenbahn (SHB)
@@ -1059,8 +1000,6 @@ motis_id,name
 8085,RBA Neu Ulm
 8086,Schwabenbus Dillingen
 8087,Landkreis Rottal
-81,SWO Mobil GmbH
-81____,Österreichische Bundesbahnen
 810,WestfalenBahn
 8103,RVS
 8106,Regensburger Verkehrsbetrieb
@@ -1104,7 +1043,6 @@ motis_id,name
 8196,VGM-Busverkehr
 8197,RBO-Busverkehr
 8198,VGH Busverkehr
-82,Schweizerische Südostbahn (sob)
 820,Verkehrsbetriebe Luzern AG
 8203,Bergbahn
 8205,Fähre
@@ -1114,17 +1052,14 @@ motis_id,name
 822,Busbetrieb BOB
 823,Basler Verkehrsbetriebe
 827,Städtische Verkehrsbetriebe Bern
-83,Trenitalia
 832,Autobetrieb Weesen-Amden
 834,Service d'automobiles TPF
 838,Flixbus
 839,Zugerland Verkehrsbetriebe
-84,Stadtverkehrsgesellschaft mbH Frankfurt (Oder)
 841,Auto AG Schwyz
 843,bus
 846,regiobus Potsdam Mittelmark GmbH
 849,Verkehrsbetriebe Zürich
-85,Schweizerische Bundesbahnen
 850,Autobusbetrieb RBS
 851,Automobildienst Matterhorn Gotthard Bahn (fo auto)
 8571,Oberhavel Verkehrsgesellschaft mbH
@@ -1139,7 +1074,6 @@ motis_id,name
 8595,Stadtverkehrsgesellschaft mbH Frankfurt (Oder)
 8596,Regionale Verkehrsgesellschaft Dahme-Spreewald mbH
 8599,Strausberger Eisenbahn GmbH
-86,Zentralbahn
 8601,Verkehrsmanagement Elbe-Elster GmbH
 8603,ORP Ostprignitz-Ruppiner Personennahverkehrsgesellschaft mbH
 8606,Verkehrsbetrieb Potsdam GmbH
@@ -1171,9 +1105,6 @@ motis_id,name
 8689,VGO Gießen
 8694,ALV Marburg
 8696,Stadtwerke Bad Nauheim
-87,Société Nationale des Chemins de fer Français
-87_LEX,Société Nationale des Chemins de fer Français
-87_SIB,SIBRA
 870,Automobildienste Aare Seeland mobil
 8709,Medenbach Traffic GmbH
 8719,ALV Oberhessen
@@ -1198,7 +1129,6 @@ motis_id,name
 8760,Stroh Busverkehr GmbH
 8766,VGO Friedberg
 8767,Stadtverkehr Maintal
-88,Dopravný podnik Bratislava
 881,Transports Publics Genevois
 882,Stadtbus Winterthur
 885,Verkehrsbetriebe der Stadt St.Gallen
@@ -1228,12 +1158,9 @@ motis_id,name
 895,Transports Vallée de Joux-Yverdon-Ste-Croix
 896,Regiobus Gossau SG
 8965,Bayerische Oberlandbahn
-9,Artis
 9020,"Železničná spoločnosť Slovensko, a.s."
-91,Sonstige Verkehrsunternehmen
 9141,KVG Bus
 9142,KVG Tram
-92,Havelbus Verkehrsgesellschaft mbH
 9222,EW Bus GmbH
 9225,RhönEnergie Bus GmbH (NVV)
 9226,Frölich Bus GmbH
@@ -1249,7 +1176,6 @@ motis_id,name
 9276,HLB Bus GmbH
 9281,mobus Märkisch-Oderland Bus GmbH
 9282,ARGE prignitzbus
-93,Matterhorn Gotthard Bahn (bvz)
 9316,Padersprinter
 9319,nph-Linienbündel 01
 9320,nph-Linienbündel 02
@@ -1278,14 +1204,11 @@ motis_id,name
 9571,Regionalbuslinien
 9572,RVV-VLC für EFA
 9575,Bus8
-96,Aargau Verkehr AG
 9616,Fritz Behrendt OHG2
 9620,regiobus Potsdam Mittelmark GmbH
 9641,ESE Verkehrsgesellschaft mbH
 969,eurobahn
-97,Transports Vallée de Joux-Yverdon-Ste-Croix
 976,Niederbarnimer Eisenbahngesellschaft GmbH
-99,"IDS JMK (Data from: KORDIS JMK, DPMB)"
 9999,GRK Rail Oy
 ALEOP_72,Aléop en Sarthe
 ALEOP:Operator:ALEOP_44,Aléop en Loire-Atlantique
