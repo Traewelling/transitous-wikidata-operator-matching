@@ -31,43 +31,34 @@ motis_id,name
 10368,PVGS Altmarkkreis Salzwedel
 1037,Koiviston Auto Länsi Oy
 10382,vogtlandbahn - Die Länderbahn GmbH DLB
-10392,SNCF Voyages Deutschland
 104,S.G.M. S.p.A.
 1040,Vr
 1042,Salon Tilausmatkat Oy
 10439,DB RegioNetz Verkehrs GmbH Oberweisbacher Berg+Schwarzatalb
-10459,CFL1
 10466,Nederlandse Spoorwegen
 1047,J. Vainion Liikenne Oy
-10492,THURBO
 1055,Pekolan Liikenne Oy
 1056,Vekka Group Oy
 1057,Valkeakosken Liikenne Oy
-106,Verkehr und Wasser GmbH (VWG)
 1062,Savonlinja Oy
 1065,Koiviston Auto Jyväskylä Oy
 10705,Regionale Verkehrsbetriebe Schaffhausen
 1071,RENFE OPERADORA
 1077,Mika K. Niskanen Oy
-10785,SBB
 10837,alex - Die Länderbahn GmbH DLB
 10846,SDG Sächsische Dampfeisenbahngesellschaft mbH
 10847,Bentheimer Eisenbahn
 10851,City-Bahn Chemnitz
-10853,Mitteldeutsche Regiobahn
 10858,Rurtalbahn
 1086,OSL / Koiviston Auto Oulu Oy
 10861,EVB ELBE-WESER GmbH
 10865,Freiberger Eisenbahngesellschaft
-10866,Erfurter Bahn Express
-10867,Bodensee-Oberschwaben-Bahn
 10875,Harzer Schmalspurbahn
 10882,Stadtbahn Karlsruhe SEV
 10887,Berchtesgadener Land Bahn
 10890,trilex-express - Die Länderbahn GmbH DLB
 10892,trilex  - Die Länderbahn GmbH DLB
 10894,REGIOBAHN
-10898,Meridian
 1090,"Hangon liikenne, Friman&Co"
 10904,Mecklenburgische Bäderbahn Molli
 10905,Norddeutsche Eisenbahn Gesellschaft
@@ -82,7 +73,6 @@ motis_id,name
 10959,Daadetalbahn
 10966,erixx
 10968,Adler-Schiffe
-10969,Bayerische Regiobahn
 1097,Vekka liikenne Oy
 10971,Bayerische Zugspitzbahn
 1099,Lehtimäen Liikenne Oy
@@ -97,9 +87,7 @@ motis_id,name
 11046,Hessische Landesbahn GmbH
 11049,Eurobahn
 11076,Kein Bereich
-111,Luxtram
 1113,Bus Travel Oy Reissu Ruoti
-112,liO Occitanie 12
 1122,Savonlinja
 1123,Pohjolan Turistiauto Oy
 1124,Oy Rytkönen & Co
@@ -115,18 +103,13 @@ motis_id,name
 1168,Ventoniemi Oy/Liikenne Seppälä Oy
 1169,Wikström / Amper (Oy Amper & Wikström Ab)
 1172,Wiimax (Oulaisten Liikenne Oy)
-11742,Erfurter Verkehrsbetriebe AG
 1175,Tallink Grupp AS
 11761,VVB Völklinger Verkehrsbetriebe GmbH
 1177,A Kyllönen Oy
 1180,SBV Janßen GmbH & Co. KG
 1185,Schrage Reisen
-1187,SNCF VOYAGEURS
 11901,Stadtverkehr Aschaffenburg
-11906,Bus9
-11911,Strasse
 11926,Kahlgrund VG
-11936,BUS
 11941,SWL
 11946,POB Vnetz Hauptlinien
 1195,Verkehrsbetriebe Oldenburger Land
@@ -167,7 +150,6 @@ motis_id,name
 12097,Verkehrsbetriebe Wesermarsch GmbH
 12098,Verkehrsgemeinschaft Emsland-Süd
 12099,Verkehrsbetriebe Grafschaft Hoya GmbH
-121,Delmenhorst-Harpstedter Eisenbahn GmbH
 12102,Reisebüro Schmidt
 12104,Verkehrsbetriebe Kreis Plön GmbH
 12105,Verkehrsgesellschaft Landkreis Gifhorn mbH
@@ -193,24 +175,16 @@ motis_id,name
 12277,Stadtwerke Rodgau1
 1231,FRS Finland Oy
 1235,Finnair
-124,Eisenbahnen und Verkehrsbetriebe Elbe-Weser GmbH
 1249,Bentheimer Eisenbahn
 12521,Regionalverkehre Start Deutschland GmbH Mitteldeutschland
 126,W. Giese Nachf. Omnibusbetrieb GmbH
-12606,Dänische Staatsbahnen
-12616,MAV
-12617,PKP Intercity
 12622,SNCB
-12623,SNCF
-12624,Trenitalia
 12634,Ceske Drahy
 12638,NordWestBahn
 12683,Regionalverkehre Start Deutschland GmbH Unterelbe
 12721,Ehard
 12722,VGN Kraus Reisen
-12723,Bus10
 12729,Omnibus-Nahverkehrs-Service
-12751,Anrufsammeltaxi1
 12760,Kraichtal Bus GbR
 12761,Sonstige Unternehmen
 12782,Kieler Verkehrsgesellschaft mbH
@@ -233,40 +207,30 @@ motis_id,name
 12991,Busreisen Andreesen Morten GmbH & Co. KG
 12992,Vineta Autobus GmbH
 13,Oberger GmbH
-130,liO Occitanie 30
 13003,Hock
 13004,Grasmann neu
 13011,Gebken Reisen GmbH
-13022,Externe Leistungen
 13031,Schülerlinien CVAG
 13086,Landkreis Neuburg-Schrobenhausen
-131,CITEA
 13112,Westliche Wälder 01
 13116,Wirtschaftsbetrieb Bad Hersfeld
-13121,Bündel_1_4_6
 13122,TRI Train Rental GmbH
 13137,Verkehrsgesellschaft Landkreis Osnabrück
 13142,Verkehrsunternehmen Wartburgmobil VUW gkAöR
 13151,Bayer
 13181,Tempus mobil
-132,liO Occitanie 32
 13211,Stadtbus Kronberg im Taunus1
-13251,Linienbündel 5 (Abteiland)
 13277,Eisenbahnen und Verkehrsbetriebe Elbe-Weser GmbH
 13279,Reisedienst von Rahden GmbH & Co. KG
 13287,Tschechische Republik (Sonstige)
 13291,WestfalenBahn
 133,Reisedienst von Rahden GmbH & Co. KG
 13327,RBA Dillingen
-13331,Unbekannt
 13346,Würzburger Straßenbahn
 13351,Personen- und Reiseverkehrs GmbH Greiz
 13371,Rurtalbus GmbH
-13396,Österreichische Bundesbahnen
 13398,Weissenburg
-134,Herault Transport
 13423,Montafoner Bahn
-13427,Erfurter Verkehrsbetriebe AG
 13429,Nordhäuser Verkehrsbetriebe GmbH
 13441,Ostalbkreis
 13451,ARGE SFB
@@ -276,54 +240,31 @@ motis_id,name
 13478,Expressbus Relex1
 13479,Alb-Donau-Kreis1
 13481,Andre-Touristk
-135,RegioBus Hannover GmbH
 13502,Vetter Verkehrsbetriebe
 13511,OVF
 13513,Martin Regionalbus
-13516,Bus (Stadtverkehr)
-13517,Bus (Region)
 13521,Regionalverkehr Oberbayer (überregional)
-13526,DB ZugBus (RAB) Bereich Bus
 13536,Autokraft Kiel GmbH Anrufverkehre
 13544,LB2 Vogel VGN 202-202-246
 13551,Reisebüro Beckermann
-13557,DB Fernverkehr AG
 13583,Busverkehr Wissmüller
-136,Schaumburger Verkehrs-Gesellschaft mbH
-13617,Weser-Ems-Bus Auftragnehmerleistung von Wilmering
-13618,Weser-Ems-Bus Betrieb Bremen
-13619,Weser-Ems-Bus Betrieb Ostfriesland
-13620,Weser-Ems-Bus Betrieb Osnabrück
-13621,RAB-Bus (ZÖA-LB-NW)
 13637,Görlitzer Verkehrsbetriebe
 13638,VGN
 13641,Stadtbus Konstanz
 13642,Landkreis Konstanz
 13643,Stadtbus Singen (Htw)
 13646,Freizeitverkehr
-13651,U-Bahn Nürnberg
-13652,Tram Nürnberg
 13653,Stadtverkehr Fürth
 13654,Schmetterling Reisen
 13655,Erlanger Stadtverkehr
 13664,Hetzler & Pfadt vorher Viabus
-13665,Regional Bus Stuttgart
 13666,Westpfalz
 13677,Reicheneder
 13706,Stadtbus Weiden
-13707,Überlandverkehr
 13716,Wagenhäuser
 13717,VGS
 13721,Ratzeburg-Möllner Verkehrsbetriebe GmbH
-13726,Überlandlinien Schwandorf
-13727,sonstige Linien
-13761,TGO-EFA Datenversorgung
-13766,SWG-EFA Datenversorgung
-13796,FlixTrain-de
-138,Bus Ostschweiz (Rheintal)
 13817,Bus Engel
-13826,Fahrplan 2022 Fürth
-13827,Fahrplan 2022 AST/Rufbus
 13828,Lankl-Reisen
 13831,Kreativ Tours GmbH
 13836,"Stroh Bus-Verkehrs GmbH, Offenbach"
@@ -336,7 +277,6 @@ motis_id,name
 13864,Zarth GmbH1
 13886,Kalmer Reisen GmbH
 140,Bruns Reisen GmbH Varel
-14071,Ersatzverkehr1
 14076,Brodschelm Linie
 14084,Verkehrsgesellschaft Südniedersachsen mbH
 14091,Regiobus Uhlendorff GmbH & Co. KG
@@ -416,9 +356,7 @@ motis_id,name
 14557,Wittelsbacher Land 02 (ab j21)
 14558,Bus Richard Eberhardt GmbH
 14559,RBS AA + FMO SHA
-14577,Omnibus2
 14587,AK Autokraft Projekt Smile24
-146,STI Bus AG
 14617,Zarth GmbH2
 14618,Behles GmbH
 14620,WSW BürgerBus
@@ -434,9 +372,6 @@ motis_id,name
 14738,Karl Beck GmbH & Co. KG
 14739,Ansbacher Bäder und Verkehrs GmbH
 14740,Kleinhenz
-14741,Pforzheim Ezkreis Ost
-14742,Straßenbahn-RSAG
-14747,Straßenbahn München
 14749,Straßenbahn Vogtland
 14752,04 - Fahrplan 2025 Landkreis Nürnberger
 14763,SBK
@@ -447,93 +382,45 @@ motis_id,name
 14784,SBG-Freiburg
 14785,SBG-Villingen
 14786,SBG-Waldshut
-14787,Fremdunternehmer (RVF)
-14788,Fremdunternehmer (Sonstige)
 14789,Omnibusverkehr Abt Schwäbisch Gmünd1
-148,Verkehrsbetriebe Grafschaft Hoya GmbH
 14812,Via Rhein Main Mobility GmbH
 14822,Verkehrsgesellschaft Merzig-Wadern
 14868,SWEG_WL_EM
 14872,Regionalverkehre Start Deutschland GmbH Niedersachsen-Mitte
-14907,Busbetrieb Alb-Bodensee
-14908,Bus Alb-Bodensee
-14909,Regionalbus Alb-Bodensee
 14922,Federl
-14927,Schnellbus C - Prag
-14937,SEV U-Bahn München
-14938,SEV Tram München
-14939,SEV Nacht München
-14940,NachtTram München
-14941,NachtBus München
-14942,ExpressBus München
-14943,Bus München
-14947,Linienbündel Nordwest
-14948,Linienbündel Mitte
-14949,Liniebündel Südost
-14950,Linienbündel Oberes Gäu
-14952,Linienbündel Südwest Los 2
-14967,Linien 661 - 667
 14972,SV Annaberg-Buchholz Bus
-14973,Bahnersatzverkehr1
 14974,Chemnitzer Modell1
 14976,Stadtwerke Neumarkt OPf (SWN)
-150,Verkehrsbetrieb Potsdam GmbH
-151,Transports Publics de la Région Lausannoise sa
 152,Jacobs Reisedienst
 153,Vonau Reisedienst GmbH & Co. KG
 154,AllerBus
-157,Wengernalpbahn
-163,TRENITALIA S.p.A.
 164,Albus
 165,Albus (SVG beauftragt)
 1655,Eisenbahnen und Verkehrsbetriebe Elbe-Weser GmbH(Bahndaten)
-166,liO Occitanie 66
-171,Société Nationale des Chemins de Fer Luxembourgeois
 1750,Verkehrsbetriebe Bachstein
-176,Stadtwerke Emden GmbH
-181,liO Occitanie 81
-183,BLS Schifffahrt AG (brs)
-185,Vierwaldstättersee
 1850,Heidekreis
 1855,Willy Hummert Omnibusverkehr GmbH
 1935,Omnibus-Nahverkehrs-Service
-194,Zürichsee-Schifffahrtsgesellschaft AG (ZSG)
-195,Schweizerische Bodensee-Schifffahrt AG
-197,Schiffsbetrieb Walensee
 1990,HarzBus GbR
-2,Astuce
 20,Innbus Regionalverkehr GmbH
 200000,Astra Trans Carpatic
 20001,MOBI-Rio
-203,DSB
-204,FYNBUS
-206,NT
 2085,Busreisen Andreesen Morten GmbH & Co. KG
 2115,Gebken Reisen GmbH
 2116,Hutfilters Reisedienst GmbH & Co.
 2150,Verkehrsgesellschaft Landkreis Osnabrück
 2156,eurobahn
-216,Delbus GmbH & Co. KG
-218,BREMERHAVEN BUS
-219,Arosa Bergbahnen
 22002,Intersul
 22003,Internorte
 22004,Transcarioca
 22005,Santa Cruz
 2205,Personenverkehrsgesellschaft Altmarkkreis Salzwedel mbH
-221,Movia
 2240,Reisebüro Winkelmann GmbH
-226,Göttinger Verkehrsbetriebe (GöVB)
 2305,Reisebüro Beckermann
-231,Braunschweiger Verkehrs-GmbH
 232,Rhäzüns-Feldis/Veulden
 2345,Harzer Verkehrsbetriebe GmbH
 237,SOLEA
 2372,ARGE Sallwey-Frölich-Brundig
-2400,Weser-Ems-Bus Betrieb Ostfriesland
-2401,Weser-Ems-Bus Betrieb Bremen
-2402,Weser-Ems-Bus Betrieb Osnabrück
-2403,Weser-Ems-Bus Auftragnehmerleistungen
 241,Barnimer Busgesellschaft mbH
 243,Aachener Straßenbahn und Energieversorgungs-AG
 246,Verkehrsgesellschaft Teltow-Fläming mbH
@@ -741,12 +628,9 @@ motis_id,name
 500,CTM Spa
 51-49-GLE,Goldline Express
 51-50-WIRISHI,Translink Northern Ireland Rail
-5111,SNCF Voyageurs SA
 513,Norrtåg
 516,Cottbusverkehr GmbH
 52,Reisebüro Breuss
-5235,SNCF Voyageurs EA
-5270,SNCF Voyageurs LO
 54,ARGE Tiroler Zugspitzbahn Tyroltours
 546,Kraftverkehrsgesellschaft mbH Braunschweig
 547,Peiner Verkehrsgesellschaft mbH
@@ -782,18 +666,9 @@ motis_id,name
 737,Servizio d'automobili
 744,Wels Linien GmbH
 7493,Rurseeschifffahrt
-7496,Schienenersatzverkehr
-7499,OMNIBUS
 75,RD Ardennes Métropole
-7500,STRASSENBAHN
 751,Hanseatische Eisenbahn
 7539,STVP
-7540,BOGESTRA City-Express
-7541,BOGESTRA Schnellbus
-7542,"BOGESTRA Stadtbahn, Linie U35"
-7543,BOGESTRA Straßenbahn
-7544,BOGESTRA Bus
-7545,Sonstige VU
 7546,Buchmann
 7548,Ehrmann
 755,Autobusbetrieb Freienbach
@@ -802,7 +677,6 @@ motis_id,name
 7553,Müller
 7554,Isny
 7558,Volk
-7560,Straßenbahn
 7571,Bahnen der Stadt Monheim
 7572,Mülheimer Verkehrsgesellschaft
 7573,Busverkehr Rheinland
@@ -816,9 +690,6 @@ motis_id,name
 7608,Probst
 7612,Fromm
 7620,Walk
-7623,SWU Verkehr
-7624,RAB
-7625,NeUBus_RBA
 7626,Gairing NU
 7627,Weidachstein
 7628,Oster
@@ -832,33 +703,21 @@ motis_id,name
 7638,"Essener Verkehrs AG, U-Bahn"
 7639,"Essener Verkehrs AG, Straßenbahn"
 7640,Private Omnibusunternehmer GmbH
-7641,VAG - BUS
-7642,VAG - Stadtbahn
-7643,FREMD - Unternehmer
-7644,Taxi
 7657,HCR alles
 766,Bus und Service AG (Chur)
 7662,Hagener Straßenbahn AG Bus
 7664,Busverkehr Nordschwarzwald GmbH
 7666,Bus RVS
 7669,Bus VERA
-7677,SEV T+B (Tram + Sonstige Busse)
 7678,Märkische Verkehrsgesellschaft
 7680,MVG Shuttelverkehr FH Iserlohn
 7681,MVG ALF/AST Verkehr
-7686,MVV-Ruftaxi
-7687,MVV-Regionalbus
 7688,ExpressBus
 7713,NIAG
 7714,OVA - Omnibus-Verkehr Aalen
 7715,Omnibusverkehr Abt Schwäbisch Gmünd
 7718,Beck + Schubert GmbH & CoKG
 773,Verkehrsbetriebe Glattal
-7762,Rheinbahn Stadtbahn
-7763,Rheinbahn Strab
-7764,Rheinbahn Bus
-7765,Rheinbahn BusNE
-7766,Rheinbahn SkyTrain
 7776,Stadtwerke Oberhausen
 7777,Städtische Werke Krefeld Strab
 7778,Städtische Werke Krefeld Bus
@@ -888,8 +747,6 @@ motis_id,name
 7816,VGBreitenbach
 7817,Verkehrsgemeinschaft Osnabrück
 7826,Bus Schwabach (Wutzer)
-7829,PVU-1000er-Linien
-7830,Bus Region (Private VU)
 7831,Bus BA BT PVU-Region
 7833,SVZ Zwickau Bus
 7834,RV RVW Bus
@@ -898,7 +755,6 @@ motis_id,name
 7843,SV Chemnitz Strab
 7844,SV Chemnitz Bus
 7846,RV BVO Bus
-7854,Bahnersatzverkehr
 7857,RV Mittweida Bus
 7859,SV Frankenberg Bus
 7862,RV Freiberg Bus
@@ -914,16 +770,7 @@ motis_id,name
 7888,OBB-Beck
 7889,S.Wilhelm-OBB
 7891,Schmidt-Reisen
-7904,Regionalbusse (privat)
-7906,Anruf-Sammel-Taxi
-7909,RNV LU-MA (Strab)
-7910,RNV Heidelberg (Strab)
-7911,RNV HD-MA-Weinheim (Strab)
 7912,Rheinfähre Altrip
-7913,RNV Mannheim (Bus)
-7914,RNV Ludwigshafen(Bus)
-7915,RNV Heidelberg (Bus)
-7916,Südwestdeutsche-Verkehrs-AG
 7921,Stadtwerke Eberbach
 7922,Stadtwerke Lampertheim
 7926,PalatinaBus GmbH
@@ -958,9 +805,6 @@ motis_id,name
 7987,Stadtverkehr SHA
 7988,Röhler
 7989,Niederrheinwerke Viersen mobil GmbH
-7992,NE-Zug (VVS)
-8000,Ruftaxi entlang Linie
-8001,Ruftaxi nicht entlang Linie
 8005,Museumsstraßenbahn (SHB)
 801,PostAuto AG
 8011,BRS Busverkehr Ruhr-Sieg GmbH
@@ -992,12 +836,6 @@ motis_id,name
 8072,Stadtbus Kempten
 8074,Schattmeier
 8077,Schweighart
-8080,RBA Ingolstadt
-8081,RBA Kempten
-8082,RBA Lindau
-8083,NeuBus
-8084,RBA Betrieb Augsburg
-8085,RBA Neu Ulm
 8086,Schwabenbus Dillingen
 8087,Landkreis Rottal
 810,WestfalenBahn
@@ -1008,7 +846,6 @@ motis_id,name
 8112,RegioBus NVH
 8118,U-Bahn München
 812,VR Snabbtåg
-8120,Bus
 8121,Stadtwerke Passau
 8122,Stadtwerke Trier
 8123,Moselbahn
@@ -1045,9 +882,6 @@ motis_id,name
 8198,VGH Busverkehr
 820,Verkehrsbetriebe Luzern AG
 8203,Bergbahn
-8205,Fähre
-8209,Bus-RSAG
-8211,Ruftaxi
 8219,Schwerin Bus
 822,Busbetrieb BOB
 823,Basler Verkehrsbetriebe
@@ -1057,7 +891,6 @@ motis_id,name
 838,Flixbus
 839,Zugerland Verkehrsbetriebe
 841,Auto AG Schwyz
-843,bus
 846,regiobus Potsdam Mittelmark GmbH
 849,Verkehrsbetriebe Zürich
 850,Autobusbetrieb RBS
@@ -1157,7 +990,6 @@ motis_id,name
 8947,NVG Neunkircher Verkehrs GmbH
 895,Transports Vallée de Joux-Yverdon-Ste-Croix
 896,Regiobus Gossau SG
-8965,Bayerische Oberlandbahn
 9020,"Železničná spoločnosť Slovensko, a.s."
 9141,KVG Bus
 9142,KVG Tram
@@ -1177,15 +1009,6 @@ motis_id,name
 9281,mobus Märkisch-Oderland Bus GmbH
 9282,ARGE prignitzbus
 9316,Padersprinter
-9319,nph-Linienbündel 01
-9320,nph-Linienbündel 02
-9322,nph-Linienbündel 04
-9324,nph-Linienbündel 06
-9325,nph-Linienbündel 07
-9326,nph-Linienbündel 08
-9327,nph-Linienbündel 09
-9328,nph-Linienbündel 10
-9330,nph-Linienbündel 12
 9338,wupsi GmbH
 94,RegioBus Steiermark
 9407,Süddeutsche Verkehrslinien
@@ -1197,13 +1020,7 @@ motis_id,name
 9512,Verkehrsgesellschaft Ludwigslust-Parchim
 9516,Bergbahn Heidelberg
 9518,Reisedienst Krauss & Wolff Reisen
-9528,AST1
 955,Trasporti Pubblici Luganesi SA
-9561,Bus6
-9567,Bus Nürnberg
-9571,Regionalbuslinien
-9572,RVV-VLC für EFA
-9575,Bus8
 9616,Fritz Behrendt OHG2
 9620,regiobus Potsdam Mittelmark GmbH
 9641,ESE Verkehrsgesellschaft mbH
