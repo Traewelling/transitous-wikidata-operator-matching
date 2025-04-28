@@ -33,7 +33,7 @@ motis_id,motis_name,wikidata_id
 L7____,"SBB GmbH",Q1254047
 12827,"Go-Ahead Verkehrsgesellschaft Deutschland mbH",Q30644989
 13631,"Go-Ahead Baden-Württemberg GmbH",Q64212458
-13786,"Go-Ahead Bayern GmbH",Q64212458
+13786,"Go-Ahead Bayern GmbH",Q64212479
 7996,Privatunternehmer-Bus (VVS),null
 7998,Nachtbus (Region),null
 7999,Privatunternehmer-Bus (nicht VVS),null
@@ -62,7 +62,7 @@ L7____,"SBB GmbH",Q1254047
 10441,DB RegioNetz Verkehrs GmbH Kurhessenbahn,Q1793083
 10442,DB RegioNetz Verkehrs GmbH Westfrankenbahn,Q1662213
 10443,DB Regio AG Baden-Württemberg,Q64504641
-10444,DB ZugBus Regionalverkehr Alb-Bodensee,Q1152130
+10444,DB ZugBus Regionalverkehr Alb-Bodensee,Q64504641
 10445,SÜWEX,Q20007080
 10446,DB Regio AG Bayern,Q1152076
 10448,DB RegioNetz Verkehrs GmbH Südostbayernbahn,Q1660947
@@ -180,3 +180,185 @@ L7____,"SBB GmbH",Q1254047
 101,Österreichische Postbus AG - N (Salzburg),Q14912709
 109,Österreichische Postbus AG - W (Tamsweg),Q14912709
 110,Österreichische Postbus AG - W (Zell am See),Q14912709
+106,Verkehr und Wasser GmbH (VWG),Q2516086
+111,Luxtram,Q108822589
+112,liO Occitanie 12,Q55597931
+121,Delmenhorst-Harpstedter Eisenbahn GmbH,Q1184518
+124,Eisenbahnen und Verkehrsbetriebe Elbe-Weser GmbH,Q1311594
+130,liO Occitanie 30,Q55597931
+131,CITEA,Q2990053
+132,liO Occitanie 32,Q55597931
+134,Herault Transport,Q3145008
+135,RegioBus Hannover GmbH,Q2138114
+136,Schaumburger Verkehrs-Gesellschaft mbH,Q2232047
+138,Bus Ostschweiz (Rheintal),Q108586657
+146,STI Bus AG,Q679433
+148,Verkehrsbetriebe Grafschaft Hoya GmbH,Q2516130
+150,Verkehrsbetrieb Potsdam GmbH,Q2516117
+151,Transports Publics de la Région Lausannoise sa,Q675718
+157,Wengernalpbahn,Q98399023
+163,TRENITALIA S.p.A.,Q286650
+166,liO Occitanie 66,Q55597931
+171,Société Nationale des Chemins de Fer Luxembourgeois,Q525359
+176,Stadtwerke Emden GmbH,Q15130172
+181,liO Occitanie 81,Q55597931
+183,BLS Schifffahrt AG (brs),Q113548350
+185,Vierwaldstättersee,Q670874
+194,Zürichsee-Schifffahrtsgesellschaft AG (ZSG),Q248717
+195,Schweizerische Bodensee-Schifffahrt AG,Q97666818
+197,Schiffsbetrieb Walensee,Q115595815
+203,DSB,Q83824
+204,FYNBUS,Q12313224
+206,NT,Q3246599
+216,Delbus GmbH & Co. KG,Q1184023
+218,BREMERHAVEN BUS,Q907975
+219,Arosa Bergbahnen,Q698378
+221,Movia,Q3359392
+226,Göttinger Verkehrsbetriebe (GöVB),Q1559833
+231,Braunschweiger Verkehrs-GmbH,Q901999
+843,bus,null
+1187,SNCF VOYAGEURS,Q13646
+2400,Weser-Ems-Bus Betrieb Ostfriesland,Q2563812
+2401,Weser-Ems-Bus Betrieb Bremen,Q2563812
+2402,Weser-Ems-Bus Betrieb Osnabrück,Q2563812
+2403,Weser-Ems-Bus Auftragnehmerleistungen,Q2563812
+5111,SNCF Voyageurs SA,Q13646
+5235,SNCF Voyageurs EA,Q13646
+5270,SNCF Voyageurs LO,Q13646
+7496,Schienenersatzverkehr,null
+7499,OMNIBUS,null
+7500,STRASSENBAHN,null
+7540,BOGESTRA City-Express,Q889060
+7541,BOGESTRA Schnellbus,Q889060
+7542,"BOGESTRA Stadtbahn, Linie U35",Q889060
+7543,BOGESTRA Straßenbahn,Q889060
+7544,BOGESTRA Bus,Q889060
+7545,Sonstige VU,null
+7560,Straßenbahn,null
+7623,SWU Verkehr,Q130236683
+7624,RAB,Q1152130
+7625,NeUBus_RBA,Q2138281
+7641,VAG - BUS,Q1557682
+7642,VAG - Stadtbahn,Q1557682
+7643,FREMD - Unternehmer,null
+7644,Taxi,null
+7677,SEV T+B (Tram + Sonstige Busse),null
+7686,MVV-Ruftaxi,null
+7687,MVV-Regionalbus,null
+7762,Rheinbahn Stadtbahn,Q316236
+7763,Rheinbahn Strab,Q316236
+7764,Rheinbahn Bus,Q316236
+7765,Rheinbahn BusNE,Q316236
+7766,Rheinbahn SkyTrain,Q316236
+7829,PVU-1000er-Linien,null
+7830,Bus Region (Private VU),null
+7854,Bahnersatzverkehr,null
+7904,Regionalbusse (privat),null
+7906,Anruf-Sammel-Taxi,null
+7909,RNV LU-MA (Strab),Q1650863
+7910,RNV Heidelberg (Strab),Q1650863
+7911,RNV HD-MA-Weinheim (Strab),Q1650863
+7913,RNV Mannheim (Bus),Q1650863
+7914,RNV Ludwigshafen(Bus),Q1650863
+7915,RNV Heidelberg (Bus),Q1650863
+7916,Südwestdeutsche-Verkehrs-AG,Q2381732
+7992,NE-Zug (VVS),Q2596833
+8000,Ruftaxi entlang Linie,null
+8001,Ruftaxi nicht entlang Linie,null
+8080,RBA Ingolstadt,Q2138281
+8081,RBA Kempten,Q2138281
+8082,RBA Lindau,Q2138281
+8083,NeuBus,Q2138281
+8084,RBA Betrieb Augsburg,Q2138281
+8085,RBA Neu Ulm,Q2138281
+8120,Bus,null
+8205,Fähre,null
+8209,Bus-RSAG,Q6718062
+8211,Ruftaxi,null
+8965,Bayerische Oberlandbahn,Q812270
+9319,nph-Linienbündel 01,null
+9320,nph-Linienbündel 02,null
+9322,nph-Linienbündel 04,null
+9324,nph-Linienbündel 06,null
+9325,nph-Linienbündel 07,null
+9326,nph-Linienbündel 08,null
+9327,nph-Linienbündel 09,null
+9328,nph-Linienbündel 10,null
+9330,nph-Linienbündel 12,null
+9528,AST1,null
+9561,Bus6,null
+9567,Bus Nürnberg,Q1557682
+9571,Regionalbuslinien,null
+9572,RVV-VLC für EFA,null
+9575,Bus8,null
+10392,SNCF Voyages Deutschland,Q13646
+10459,CFL1,Q525359
+10492,THURBO,Q432448
+10785,SBB,Q83835
+10853,Mitteldeutsche Regiobahn,Q33895860
+10866,Erfurter Bahn Express,Q1350200
+10867,Bodensee-Oberschwaben-Bahn,Q889679
+10898,Meridian,Q812270
+10969,Bayerische Regiobahn,Q812270
+11742,Erfurter Verkehrsbetriebe AG,Q1350238
+11906,Bus9,null
+11911,Strasse,null
+11936,BUS,null
+12606,Dänische Staatsbahnen,Q83824
+12616,MAV,Q168082
+12617,PKP Intercity,Q249591
+12623,SNCF,Q13646
+12624,Trenitalia,Q286650
+12723,Bus10,null
+12751,Anrufsammeltaxi1,null
+13022,Externe Leistungen,null
+13121,Bündel_1_4_6,null
+13251,Linienbündel 5 (Abteiland),null
+13331,Unbekannt,null
+13396,Österreichische Bundesbahnen,Q83822
+13427,Erfurter Verkehrsbetriebe AG,Q1350238
+13516,Bus (Stadtverkehr),null
+13517,Bus (Region),null
+13526,DB ZugBus (RAB) Bereich Bus,Q1152130
+13557,DB Fernverkehr AG,Q452140
+13617,Weser-Ems-Bus Auftragnehmerleistung von Wilmering,Q2563812
+13618,Weser-Ems-Bus Betrieb Bremen,Q2563812
+13619,Weser-Ems-Bus Betrieb Ostfriesland,Q2563812
+13620,Weser-Ems-Bus Betrieb Osnabrück,Q2563812
+13621,RAB-Bus (ZÖA-LB-NW),Q1152130
+13651,U-Bahn Nürnberg,Q1557682
+13652,Tram Nürnberg,Q1557682
+13665,Regional Bus Stuttgart,Q2138207
+13707,Überlandverkehr,null
+13726,Überlandlinien Schwandorf,null
+13727,sonstige Linien,null
+13761,TGO-EFA Datenversorgung,null
+13766,SWG-EFA Datenversorgung,null
+13796,FlixTrain-de,Q55499626
+13826,Fahrplan 2022 Fürth,null
+13827,Fahrplan 2022 AST/Rufbus,null
+14071,Ersatzverkehr1,null
+14577,Omnibus2,null
+14741,Pforzheim Ezkreis Ost,null
+14742,Straßenbahn-RSAG,Q6718062
+14747,Straßenbahn München,null
+14787,Fremdunternehmer (RVF),null
+14788,Fremdunternehmer (Sonstige),null
+14907,Busbetrieb Alb-Bodensee,Q1152130
+14908,Bus Alb-Bodensee,Q1152130
+14909,Regionalbus Alb-Bodensee,Q1152130
+14927,Schnellbus C - Prag,null
+14937,SEV U-Bahn München,null
+14938,SEV Tram München,null
+14939,SEV Nacht München,null
+14940,NachtTram München,null
+14941,NachtBus München,null
+14942,ExpressBus München,null
+14943,Bus München,null
+14947,Linienbündel Nordwest,null
+14948,Linienbündel Mitte,null
+14949,Liniebündel Südost,null
+14950,Linienbündel Oberes Gäu,null
+14952,Linienbündel Südwest Los 2,null
+14967,Linien 661 - 667,null
+14973,Bahnersatzverkehr1,null
