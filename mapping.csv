@@ -1,8 +1,8 @@
 motis_id,motis_name,wikidata_id
-10836,"Albtal-Verkehrs-Gesellschaft",Q896547
-7674,"Bus VBK",Q644958
-7672,"Tram VBK",Q644958
-7502,"Anrufsammeltaxi",null
+10836,Albtal-Verkehrs-Gesellschaft,Q896547
+7674,Bus VBK,Q644958
+7672,Tram VBK,Q644958
+7502,Anrufsammeltaxi,null
 10251,BUS,null
 7667,Bus Wöhrle,Q133881002
 7671,Taxiverkehre,null
@@ -25,7 +25,7 @@ motis_id,motis_name,wikidata_id
 1322,DB Fernverkehr (Codesharing),Q452140
 2155,eurobahn,Q589575
 2456,eurobahn,Q589575
-13221,Bus SEV, nur Abellio, DB Regio, Go-Ahead,null
+13221,"Bus SEV, nur Abellio, DB Regio, Go-Ahead",null
 554,üstra Hannoversche Verkehrsbetriebe AG,Q265625
 11,Schweizerische Bundesbahnen SBB,Q83835
 351,SBB GmbH (Grenzverkehr),Q1254047
