@@ -102,7 +102,7 @@ L7____,SBB GmbH,Q1254047
 7872,DB-Nahverkehr,Q18853
 800693,DB Regio AG Baden-Württemberg,Q64504641
 9287,DB Regio Bus Mitte,Q68308888
-0,PKP Intercity,Q249591
+0,PKP Intercity,Q590406
 0-1,Keolis Sète,Q664399
 1,ASPO SPA,Q14523772
 1,OEBB Personenverkehr AG Kundenservice,Q83822
@@ -306,7 +306,7 @@ L7____,SBB GmbH,Q1254047
 11936,BUS,null
 12606,Dänische Staatsbahnen,Q83824
 12616,MAV,Q168082
-12617,PKP Intercity,Q249591
+12617,PKP Intercity,Q590406
 12623,SNCF,Q13646
 12624,Trenitalia,Q286650
 12723,Bus10,null
@@ -365,3 +365,5 @@ L7____,SBB GmbH,Q1254047
 15017,DB Regio AG S-Bahn München,Q256524
 7666,Bus RVS,Q2381690
 8103,RVS,Q2381690
+0,Warszawski Transport Publiczny,Q56327264
+0,Koleje Mazowieckie,Q847966
