@@ -276,15 +276,20 @@ L7____,SBB GmbH,Q1254047
 8209,Bus-RSAG,Q6718062
 8211,Ruftaxi,null
 8965,Bayerische Oberlandbahn,Q812270
-9319,nph-Linienbündel 01,null
-9320,nph-Linienbündel 02,null
-9322,nph-Linienbündel 04,null
-9324,nph-Linienbündel 06,null
-9325,nph-Linienbündel 07,null
-9326,nph-Linienbündel 08,null
-9327,nph-Linienbündel 09,null
-9328,nph-Linienbündel 10,null
-9330,nph-Linienbündel 12,null
+9318,nph-NachtExpress,Q1533359
+9319,nph-Linienbündel 01,Q1533359
+9320,nph-Linienbündel 02,Q1533359
+9321,nph-Linienbündel 03,Q1533359
+9322,nph-Linienbündel 04,Q1533359
+9323,nph-Linienbündel 05,Q1533359
+9324,nph-Linienbündel 06,Q1017819
+9325,nph-Linienbündel 07,Q1017819
+9326,nph-Linienbündel 08,Q1017819
+9327,nph-Linienbündel 09,Q1533359
+9328,nph-Linienbündel 10,Q1017819
+9329,nph-Linienbündel 11,Q1533359
+9330,nph-Linienbündel 12,Q1017819
+15194,go.on Gesellschaft für Bus- und Schienenverkehr mbH,Q1533359
 9528,AST1,null
 9561,Bus6,null
 9567,Bus Nürnberg,Q1557682
@@ -348,13 +353,15 @@ L7____,SBB GmbH,Q1254047
 14908,Bus Alb-Bodensee,Q1152130
 14909,Regionalbus Alb-Bodensee,Q1152130
 14927,Schnellbus C - Prag,null
-14937,SEV U-Bahn München,null
-14938,SEV Tram München,null
-14939,SEV Nacht München,null
-14940,NachtTram München,null
-14941,NachtBus München,null
-14942,ExpressBus München,null
-14943,Bus München,null
+8118,U-Bahn München,Q456402
+14747,Straßenbahn München,Q456402
+14937,SEV U-Bahn München,Q456402
+14938,SEV Tram München,Q456402
+14939,SEV Nacht München,Q456402
+14940,NachtTram München,Q456402
+14941,NachtBus München,Q456402
+14942,ExpressBus München,Q456402
+14943,Bus München,Q456402
 14947,Linienbündel Nordwest,Q141926637
 14948,Linienbündel Mitte,Q1152130
 14949,Liniebündel Südost,Q1152130
@@ -375,3 +382,5 @@ L7____,SBB GmbH,Q1254047
 13666,Westpfalz,Q68308888
 14428,Vorderpfalz,Q68308888
 14802,DB Regio Bus Mitte GmbH H/BW,Q68308888
+9407,Süddeutsche Verkehrslinien,Q142086468
+14667,SVL Süddeutsche Verkehrslinine GmbH &,Q142086468
